@@ -1,0 +1,57 @@
+.navbar-default .navbar-brand{
+    color: #000;
+}
+
+.navbar {
+    padding: 0px;
+}
+
+.navbar-fixed-top {
+    top: 0px;
+    border-width: 0 0 0px;
+}
+
+.navbar .navbar-nav {
+  display: inline-block;
+  float: right;
+}
+
+.navbar .navbar-collapse {
+  text-align: right;
+}
+
+.intro-section {
+  color: #eee;
+}
+
+.intro-section .img-circle {
+    height:150px;
+    width: 150px;
+}
+
+.text-intro {
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 0.01em;
+  color: #eee;
+  font-size: 30px;
+  font-weight: bold;
+  padding-top: 100px;
+  text-shadow: 0 0 10px #000;
+}
+
+
+
+.worktitle{
+  padding: 0 0 22px 0;
+}
+
+.thumb1{
+  height: 205px;
+}
+
+
+
+
+.fa{
+  padding: 10px;
+}
